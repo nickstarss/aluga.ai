@@ -1,0 +1,24 @@
+.bodyNotFound{
+    margin-left: 10%;
+    margin-top: 5%;    
+}
+
+.logoImg{
+    margin-bottom: 30px;
+}
+
+.tituloNotFound{
+    font-size: 64px;
+    margin-left: 30px;
+    color: var(--roxo);
+}
+
+.h3NotFound{
+    font-size: 30px;
+    margin-left: 30px;
+}
+
+.pNotFound{
+    font-size: 20px;
+    margin-left: 30px;
+}
